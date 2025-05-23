@@ -9,6 +9,6 @@ Hi, I'm **Rafael Henritzi**
 
 ## ♾️ Connect with me
 
-- [Email](rafaelhenritzi@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/rafael-henritzi-5628b735b/)
 - [Instagram](https://www.instagram.com/henritzi_/)  
 
