@@ -12,15 +12,12 @@ Hi, I'm **Rafael Henritzi**
 - [Linkedin](https://www.linkedin.com/in/rafael-henritzi-5628b735b/)
 - [Instagram](https://www.instagram.com/henritzi_/)  
 
-##
-
+## 🤖 Github Stats
 <div>
  <a href="https://github.com/henritzi"> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henritzi&show_icons=true&theme=dracula"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henritzi&layout=compact&langs_count=16&hide_progress=false&theme=dracula"/> 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Rafael-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-</div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henritzi&show_icons=true&theme=tokyonight"/>
+ <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henritzi&layout=donut&hide_progress=false&theme=tokyonight"/> 
+</div>  
 
+## 🌐 Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
