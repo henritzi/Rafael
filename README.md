@@ -9,7 +9,6 @@ Hi, I'm **Rafael Henritzi**
 
 ## ♾️ Connect with me
 
-- [Linkedin](https://www.linkedin.com/in/rafael-henritzi-5628b735b/)
 - [Instagram](https://www.instagram.com/henritzi_/)  
 
 ## 🤖 Github Stats
